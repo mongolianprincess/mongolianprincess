@@ -1,4 +1,4 @@
-### aloha! I am Amy 👋 
+### Aloha! I am Amy 👋 
 
 I'm a full-stack softweare engineer based in Vancouver, beautiful British Columbia.
 
