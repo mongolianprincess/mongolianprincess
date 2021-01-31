@@ -2,7 +2,7 @@
 
 I'm a full-stack softweare engineer based in Vancouver, beautiful British Columbia.
 
-- 🔭 I’m currently working as part of a fully remote-first team for a UK company in education tech. We build and maintain Node.js microservices with a React frontend.
+- 🔭 I’m currently working as part of a fully remote-first team for a UK company in education tech. Node.js microservices and React frontend is our playground.
 - 🌱 I’m currently learning how to implement web accessibility a11y by default
 - 💬 Ask me about software crafting, open space, snowboarding and street food
 - 📫 How to reach me: ayc.yang@gmail.com or twitter: @AycYang
